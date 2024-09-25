@@ -14,7 +14,7 @@
 - [Container-with-most-water](https://leetcode.com/problems/container-with-most-water/)
 ### Next Permutation
 - [Next-permutation](https://leetcode.com/problems/next-permutation/)
-- [Next-greater-element-2](https://leetcode.com/problems/next-greater-element-iii/)
+- [Next-greater-element-3](https://leetcode.com/problems/next-greater-element-iii/)
 - [minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/)
 ### Reversing / Swapping
 - [valid-palindrome](https://leetcode.com/problems/valid-palindrome/)
