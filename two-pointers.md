@@ -14,32 +14,15 @@
 - [Container-with-most-water](https://leetcode.com/problems/container-with-most-water/)
 ### Next Permutation
 - [Next-permutation](https://leetcode.com/problems/next-permutation/)
-- [Next-greater-element-3](https://leetcode.com/problems/next-greater-element-iii/)
-- [minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/)
 ### Reversing / Swapping
-- [valid-palindrome](https://leetcode.com/problems/valid-palindrome/)
-- [reverse-string](https://leetcode.com/problems/reverse-string/)
-- [reverse-vowels-of-a-string](https://leetcode.com/problems/reverse-vowels-of-a-string/)
-- [valid-palindrome-2](https://leetcode.com/problems/valid-palindrome-ii/)
-- [reverse-only-letter](https://leetcode.com/problems/reverse-only-letters/)
 - [remove-element](https://leetcode.com/problems/remove-element/)
 - [sort-colors](https://leetcode.com/problems/sort-colors/)
-- [flipping-an-image](https://leetcode.com/problems/flipping-an-image/)
 - [squares-of-a-sorted-array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [sort-array-by-parity](https://leetcode.com/problems/sort-array-by-parity/)
-- [sort-array-by-parity-ii](https://leetcode.com/problems/sort-array-by-parity-ii/)
-- [problems/pancake-sorting](https://leetcode.com/problems/pancake-sorting/)
-- [reverse-prefix-of-word](https://leetcode.com/problems/reverse-prefix-of-word/)
-- [reverse-string-ii](https://leetcode.com/problems/reverse-string-ii/)
-- [reverse-words-in-a-string](https://leetcode.com/problems/reverse-words-in-a-string/)
-- [reverse-words-in-a-string-iii](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
 ### Others
 - [bag-of-tokens](https://leetcode.com/problems/bag-of-tokens/)
-- [di-string-match](https://leetcode.com/problems/di-string-match/)
 - [minimum-length-of-string-after-deleting-similar-ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)
-- [sentence-similarity-iii](https://leetcode.com/problems/sentence-similarity-iii/)
 - [find-k-closest-elements](https://leetcode.com/problems/find-k-closest-elements/)
-- [shortest-distance-to-a-character](https://leetcode.com/problems/shortest-distance-to-a-character/)
 ### Linked List Operations
 - [linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/)
 - [linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii/)
@@ -53,9 +36,7 @@
 ### Sliding Window/Caterpillar Method
 - [number-of-subarrays-with-bounded-maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)
 - [find-k-th-smallest-pair-distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/)
-- [moving-stones-until-consecutive-ii](https://leetcode.com/problems/moving-stones-until-consecutive-ii/)
 - [count-pairs-of-nodes](https://leetcode.com/problems/count-pairs-of-nodes/)
-- [count-binary-substrings](https://leetcode.com/problems/count-binary-substrings/)
 - [k-diff-pairs-in-an-array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
 ### Rotation
 - [rotating-the-box](https://leetcode.com/problems/rotating-the-box/)
